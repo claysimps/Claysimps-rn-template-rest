@@ -1,0 +1,8 @@
+{
+  "name": "claysimps-rn-template-rest",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "repository": "git@github.com:claysimps/claysimps-rn-template-rest.git",
+  "author": "Clayton Francis <claysimps@gmail.com>",
+  "license": "MIT"
+}
