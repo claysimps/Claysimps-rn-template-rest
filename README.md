@@ -3,8 +3,8 @@ This is a basic template with common libraries and project configurations to hel
 
 ### Libraries installed and configured out the box
 * **React Navigation** — Navigation
-* **Redux Toolkit — **Global State
-*  **React Query — **Server State Management (using Axios)
+* **Redux Toolkit** — Global State
+*  **React Query —** Server State Management (using Axios)
 *  **React Native Magnus UI — **UI Library
 *  **React Native Vector Icons — **Icon Library
 * **TypeScript Aliases — **for importing files
