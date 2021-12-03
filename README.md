@@ -2,7 +2,7 @@
 This is a basic template with common libraries and project configurations to help get you up and running quickly! For more Information on the template and how to edit it, search `@Remarks` in the project.
 
 ### Libraries installed and configured out the box
-* **React Navigation — **Navigation
+* **React Navigation** — Navigation
 * **Redux Toolkit — **Global State
 *  **React Query — **Server State Management (using Axios)
 *  **React Native Magnus UI — **UI Library
